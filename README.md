@@ -1,1 +1,7 @@
 # BigData with databricks
+
+Convert retail dataset into named tuples and compute the following
+
+1. Count orders by status
+2. Percentage of closed orders
+3. Average revenue per order
