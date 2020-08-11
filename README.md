@@ -1,4 +1,4 @@
-# BigData with databricks
+# BigData 1 with databricks
 
 Convert retail dataset into named tuples and compute the following
 
